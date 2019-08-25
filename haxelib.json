@@ -1,0 +1,15 @@
+{
+  "name" : "react-color",
+  "url" : "https://github.com/kasparsj/haxe-react-color",
+  "license" : "MIT",
+  "description" : "Haxe externs for react-color",
+  "version" : "0.1.0",
+  "releasenote" : "",
+  "classPath": "src",
+  "dependencies": {
+    "react-types": ""
+  },
+  "contributors": [
+    "kasparsj"
+  ]
+}
